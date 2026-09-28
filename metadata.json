@@ -1,0 +1,7 @@
+{
+  "name": "TradingView Markets Everywhere",
+  "description": "Real-time financial market terminal featuring world indices, US stocks, crypto, futures, currencies, and economic indicators with interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
